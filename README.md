@@ -2,6 +2,12 @@
 
 Atividade em equipe com o objetivo de compilar, gravar e executar o exemplo `hello_world` em uma placa ESP32, usando o framework oficial ESP-IDF.
 
+## Equipe
+- Antônio Cruz
+- Lucas de Lima
+- João Otávio
+- Fransisco Williann
+
 ## Sobre o projeto
 
 O ESP32 é um microcontrolador de baixo custo, com processador dual-core e conectividade Wi-Fi e Bluetooth integradas, muito usado em projetos de IoT e automação.
