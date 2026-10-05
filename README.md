@@ -69,7 +69,3 @@ Hello world!
 This is esp32 chip with 2 CPU core(s)...
 Restarting in 10 seconds...
 ```
-
-## Material de apoio
-
-A apresentação com a explicação do funcionamento e os slides usados na demonstração está no arquivo `esp32-deck.pptx`.
